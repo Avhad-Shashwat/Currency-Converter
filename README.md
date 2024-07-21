@@ -17,7 +17,7 @@ A simple currency converter web application that allows users to convert amounts
 - [Technologies Used](#technologies-used)
 - [API](#api)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
